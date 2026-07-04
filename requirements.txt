@@ -1,0 +1,11 @@
+python-dotenv
+nest-asyncio
+pandas
+langchain
+langchain-groq
+langchain-community<0.4.2
+langchain-openai
+ragas
+openai
+sentence-transformers
+ipykernel
